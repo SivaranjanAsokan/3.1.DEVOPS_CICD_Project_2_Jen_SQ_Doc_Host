@@ -3,7 +3,6 @@ CICD-PROJECT:GitHub_Jenkins_SonarQube_Docker<br>
 
 Here's a comprehensive `README.md` file based on your detailed instructions:
 
-```markdown
 # SonarQube, Jenkins, and Docker Integration Guide
 
 This guide covers the steps to set up and integrate SonarQube, Jenkins, and Docker on Ubuntu servers.
@@ -13,6 +12,7 @@ This guide covers the steps to set up and integrate SonarQube, Jenkins, and Dock
 ### SonarQube Server
 
 #### Step 1: Install JDK
+
 ```bash
 sudo apt install openjdk-17-jre
 ```
